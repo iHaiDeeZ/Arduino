@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T08:03:13.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="TZ0HiwKx3PZYCNIMp4RL" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T08:06:26.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GfH1jzUU6ktfgfp-VzVi" version="21.1.1" type="github">
   <diagram name="Page-1" id="iEeeSzX-YQJRWRYtdSwe">
-    <mxGraphModel dx="2442" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2577" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="w2PyvuTRh5ASNS8WfvtD-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="122" width="590" height="1028" as="geometry" />
+          <mxGeometry x="90" y="111" width="590" height="1028" as="geometry" />
         </mxCell>
         <mxCell id="w2PyvuTRh5ASNS8WfvtD-3" value="&lt;h1&gt;Visitor Management System&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="w2PyvuTRh5ASNS8WfvtD-1">
           <mxGeometry width="590" height="120" as="geometry" />
@@ -113,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w2PyvuTRh5ASNS8WfvtD-2" value="Visitor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="220" width="30" height="60" as="geometry" />
+          <mxGeometry x="-20" y="210" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w2PyvuTRh5ASNS8WfvtD-9" value="RFID Reader" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="300" width="30" height="60" as="geometry" />
@@ -159,7 +159,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w2PyvuTRh5ASNS8WfvtD-94" value="Alarm" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="406" width="30" height="60" as="geometry" />
+          <mxGeometry x="-20" y="396" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w2PyvuTRh5ASNS8WfvtD-98" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w2PyvuTRh5ASNS8WfvtD-94" target="w2PyvuTRh5ASNS8WfvtD-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
